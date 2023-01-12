@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(186, 247, 227);
+}
+#music{
+
+}
+#beatles{
+    margin: 10px;
+    width: 150px;
+}
+#head{
+    font-size: 30pt;
+    color: red;
+    font-family: Arial Black;
+    font-style: italic;
+    letter-spacing: 30px;
+}
+ol{
+    margin-top: 15px;
+}
+li{
+    font-family: Book Antiqua;
+    font-size: 20pt;
+    font-style: italic;
+}
